@@ -8,7 +8,7 @@ This script allows you to batch create comma-separated layers.
 
 ### Option 1
 
-Save `ai-layer-creator.jsx` in your scripts folder.
+Save `Create Layers.jsx` in your scripts folder.
 
 - Windows: `Program Files\Adobe\Adobe After Effects <version>\Presets\<language>/Scripts`
 - OS X: `/Applications/Illustrator <version>/Presets/<language>/Scripts`
