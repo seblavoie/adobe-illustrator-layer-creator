@@ -1,6 +1,6 @@
 # Adobe Illustrator Layer Creator
 
-![](https://www.dropbox.com/s/3ascbsqx5jdpl9v/adobe-illustrator-layer-creator_test.png?dl=0)
+![](https://s3-us-west-2.amazonaws.com/sebastienlavoie.personal/adobe-illustrator-layer-creator.png)
 
 This script allows you to batch create layers by separating them with commas and they'll be created.
 
