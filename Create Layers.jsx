@@ -6,7 +6,7 @@ LayerCreator = (function() {
     var input, layers;
     input = prompt("Enter layer names separated by underscores: ", "Eg: My layer 1, My layer 2, My other layer");
     if (input) {
-      layers = input.split(/, ?/);
+      layers = input.split(/, ?\n?\r?/);
       this.createLayers(layers);
     }
   }
